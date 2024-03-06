@@ -1,4 +1,4 @@
-module todo_list
+module github.com/S9S99/todo_list
 
 go 1.22.0
 
